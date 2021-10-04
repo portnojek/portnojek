@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartek
 - 👀 I’m interested in testing.
-- 🌱 I’m currently learning to automate tests in Python.
+- 🌱 I’m currently learning to automate tests in Python and Java.
 - 📫 How to reach me: via mail - bartkowy.k@gmail.com or (preferable) bartosz.kociecki@gmail.com
 
 <!---
