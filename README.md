@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartek
-- 👀 I am interested in software quality control and big data analysis. I also have several years of experience in finance as an accounting analyst.
-- 🌱 I am involved in software testing and trying to advance in Data Science with Python.
+- 👀 I deal professionally with application testing. I have rich experience in quality building. In my activity I use modern programming languages.
+- 🌱 I am involved in software testing and trying to advance use data science in software testing. Depending on the needs I use Java or Python.
 - 📫 How to reach me: via mail - bartkowy.k@gmail.com or (preferable) bartosz.kociecki@gmail.com
 
 <!---
